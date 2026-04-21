@@ -43,7 +43,8 @@ Visualisation: Use matplotlib to create pie charts, stacked bar charts, and bar 
 
 ## 6. Product Link / Demo Video
 - GitHub Repository: https://github.com/XuzhenLiu102/Acc102-Track2-Airline-Sentiment-Data-Analysis
-- Demo Video (1–3 min):[ACC102 Track Demo ((https://video.xjtlu.edu.cn/Mediasite/Play/0ae47c86b55d470a9b2b61c49b9bda5e1d)
+- Demo Video (1–3 min):Link:https://pan.baidu.com/s/1FqlDj4b7pTfT9k-YdnV90g
+                       -Password:2t6Y
 - The video walks through the notebook, shows code execution, and explains key insights.
 
 ## 7. Limitations & Next Steps
